@@ -29,7 +29,7 @@ I enjoy building scalable applications, exploring intelligent systems, and trans
 >
 > चरैवेति चरैवेति ॥
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="90%" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80%" />
 ## 🏆 Achievements
 
 🥇 Winner – Hack'n Tech Hackathon
