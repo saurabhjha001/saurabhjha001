@@ -10,10 +10,9 @@
   <a href="https://www.linkedin.com/in/saurabh-kumar-jha-282399328/"><img src="https://img.shields.io/badge/LinkedIn-10002B?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
   <a href="https://my-portfolio-one-blond-95.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10002B?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
+
 ## 🌌 Beyond the Code
-
-I am a B.Tech Computer Science student passionate about Artificial Intelligence, Data Science, Full Stack Development, Cloud Computing, and Research.
-
+A Computer Science student passionate about Artificial Intelligence, Data Science, Full Stack Development, Cloud Computing, and Research.
 I enjoy building scalable applications, exploring intelligent systems, and transforming ideas into impactful solutions. My goal is to become a Software Development Engineer while continuously advancing my expertise in AI-driven technologies and modern software architectures.
 
 ### 🚀 Current Focus
@@ -26,7 +25,6 @@ I enjoy building scalable applications, exploring intelligent systems, and trans
 - 📚 Research & Innovation
 
 > The best way to predict the future is to build it.
->
 > चरैवेति चरैवेति ॥
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80%" />
